@@ -211,10 +211,12 @@
       <module fileurl="file://$PROJECT_DIR$/Problem(10189)/Problem(10189).iml" filepath="$PROJECT_DIR$/Problem(10189)/Problem(10189).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(102)/Problem(102).iml" filepath="$PROJECT_DIR$/Problem(102)/Problem(102).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(10300)/Problem(10300).iml" filepath="$PROJECT_DIR$/Problem(10300)/Problem(10300).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem(10370)/Problem(10370).iml" filepath="$PROJECT_DIR$/Problem(10370)/Problem(10370).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(10783)/Problem(10783).iml" filepath="$PROJECT_DIR$/Problem(10783)/Problem(10783).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(108)/Problem(108).iml" filepath="$PROJECT_DIR$/Problem(108)/Problem(108).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(11172)/Problem(11172).iml" filepath="$PROJECT_DIR$/Problem(11172)/Problem(11172).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(113)/Problem(113).iml" filepath="$PROJECT_DIR$/Problem(113)/Problem(113).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem(11332)/Problem(11332).iml" filepath="$PROJECT_DIR$/Problem(11332)/Problem(11332).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(11498)/Problem(11498).iml" filepath="$PROJECT_DIR$/Problem(11498)/Problem(11498).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(11559)/Problem(11559).iml" filepath="$PROJECT_DIR$/Problem(11559)/Problem(11559).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(11727)/Problem(11727).iml" filepath="$PROJECT_DIR$/Problem(11727)/Problem(11727).iml" />
@@ -229,6 +231,7 @@
       <module fileurl="file://$PROJECT_DIR$/Problem(483)/Problem(483).iml" filepath="$PROJECT_DIR$/Problem(483)/Problem(483).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(489)/Problem(489).iml" filepath="$PROJECT_DIR$/Problem(489)/Problem(489).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(494)/Problem(494).iml" filepath="$PROJECT_DIR$/Problem(494)/Problem(494).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem(495)/Problem(495).iml" filepath="$PROJECT_DIR$/Problem(495)/Problem(495).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(694)/Problem(694).iml" filepath="$PROJECT_DIR$/Problem(694)/Problem(694).iml" />
       <module fileurl="file://$PROJECT_DIR$/StringRef/StringRef.iml" filepath="$PROJECT_DIR$/StringRef/StringRef.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
@@ -239,6 +242,6 @@
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
