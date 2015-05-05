@@ -22,7 +22,7 @@
   </component>
   <component name="CopyrightManager" default="2015">
     <copyright>
-      <option name="notice" value="/*&#10; * Copyright (C) 2015-1016. Jacob Alan Hein. All Rights Reserved.&#10; * &#10; * This file is part of {project}.&#10; * &#10; * This source code can not be copied and/or distributed without the express&#10; * permission of Jacob Alan Hein&#10;*/" />
+      <option name="notice" value="/*&#10; * Copyright (C) 2015-1016. Jacob Alan Hein. All Rights Reserved.&#10; *&#10; * Created by &amp;#36;{USER} on &amp;#36;{DATE}.&#10; * &#10; * This source code can not be copied and/or distributed without the express&#10; * permission of Jacob Alan Hein&#10;*/" />
       <option name="keyword" value="Copyright" />
       <option name="allowReplaceKeyword" value="" />
       <option name="myName" value="2015" />
@@ -211,10 +211,13 @@
       <module fileurl="file://$PROJECT_DIR$/Problem(10189)/Problem(10189).iml" filepath="$PROJECT_DIR$/Problem(10189)/Problem(10189).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(102)/Problem(102).iml" filepath="$PROJECT_DIR$/Problem(102)/Problem(102).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(10300)/Problem(10300).iml" filepath="$PROJECT_DIR$/Problem(10300)/Problem(10300).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem(10346)/Problem(10346).iml" filepath="$PROJECT_DIR$/Problem(10346)/Problem(10346).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(10370)/Problem(10370).iml" filepath="$PROJECT_DIR$/Problem(10370)/Problem(10370).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(10783)/Problem(10783).iml" filepath="$PROJECT_DIR$/Problem(10783)/Problem(10783).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(108)/Problem(108).iml" filepath="$PROJECT_DIR$/Problem(108)/Problem(108).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem(11151)/Problem(11151).iml" filepath="$PROJECT_DIR$/Problem(11151)/Problem(11151).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(11172)/Problem(11172).iml" filepath="$PROJECT_DIR$/Problem(11172)/Problem(11172).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem(11292)/Problem(11292).iml" filepath="$PROJECT_DIR$/Problem(11292)/Problem(11292).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(113)/Problem(113).iml" filepath="$PROJECT_DIR$/Problem(113)/Problem(113).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(11332)/Problem(11332).iml" filepath="$PROJECT_DIR$/Problem(11332)/Problem(11332).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(11498)/Problem(11498).iml" filepath="$PROJECT_DIR$/Problem(11498)/Problem(11498).iml" />
@@ -232,6 +235,7 @@
       <module fileurl="file://$PROJECT_DIR$/Problem(489)/Problem(489).iml" filepath="$PROJECT_DIR$/Problem(489)/Problem(489).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(494)/Problem(494).iml" filepath="$PROJECT_DIR$/Problem(494)/Problem(494).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(495)/Problem(495).iml" filepath="$PROJECT_DIR$/Problem(495)/Problem(495).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem(579)/Problem(579).iml" filepath="$PROJECT_DIR$/Problem(579)/Problem(579).iml" />
       <module fileurl="file://$PROJECT_DIR$/Problem(694)/Problem(694).iml" filepath="$PROJECT_DIR$/Problem(694)/Problem(694).iml" />
       <module fileurl="file://$PROJECT_DIR$/StringRef/StringRef.iml" filepath="$PROJECT_DIR$/StringRef/StringRef.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
