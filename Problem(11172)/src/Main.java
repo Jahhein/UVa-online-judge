@@ -16,7 +16,7 @@
 import java.util.Scanner;
 
 class Main {
-/*TODO
+/*TODO 11172 - Relational Operator
 * Figure out: 1) First one is great than the second. 2) First one is less than the
 * second, or 3) First and second are equal.*/
 public static void main(String[] args) {

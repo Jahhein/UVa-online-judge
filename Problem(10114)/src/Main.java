@@ -12,6 +12,7 @@
 /**
  * Created by JacobHein on 4/21/15.
  */
+
 import java.util.Scanner;
 
 class Main {

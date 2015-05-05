@@ -16,7 +16,7 @@
 import java.util.Scanner;
 
 class Main {
-/* TODO Ecological Premium
+/* TODO 10300 Ecological Premium
  first line of input contains a single pos int N(<20), the num of test cases
  No input greater than 100,000 or less than 0. Wait for 3 lines of input, 3rd has 3
  ints.*/
@@ -28,7 +28,7 @@ public static void main(String args[]) {
     long result=0, farmers=input.nextLong();
 
     while (farmers--!=0) {
-      long land=input.nextLong(),x=input.nextLong(), env=input.nextLong();
+      long land=input.nextLong(), x=input.nextLong(), env=input.nextLong();
       result+=land*env;
       //x isn't used.
     }

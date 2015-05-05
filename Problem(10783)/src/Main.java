@@ -16,7 +16,7 @@
 import java.util.Scanner;
 
 class Main {
-/*TODO Odd Sum
+/*TODO 10783 - Odd Sum
 * Input: First line is number of test cases, followed by T test cases. Each test case
 * consists of 2 integers 'a' and 'b' (0<=a<=b<=100) in two separate lines.*/
 /*Output: print out one line of output - the serial number of the test case followed by
@@ -39,7 +39,8 @@ public static void main(String[] args) {
   }
 }
 
-/**+
+/**
+ * +
  * TODO Cycle
  * Accepts x and y to find the summation of all odd integers in the range of [x,y]
  * inclusive.
@@ -47,10 +48,10 @@ public static void main(String[] args) {
  * @param y
  * @return the summation of the odd integers in the range [x,y] inclusive.
  */
-public static long cycle(long x, long y) {
+public static long cycle(long x,long y) {
   long result=0;
   for (long u=x;u<=y;u++) {
-    if(u%2==1) {
+    if (u%2==1) {
       result+=u;
     }
   }

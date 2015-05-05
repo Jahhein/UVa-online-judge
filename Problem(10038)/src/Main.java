@@ -13,7 +13,9 @@
  * Created by JacobHein on 4/22/15.
  */
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
 
 class Main {
 /*TODO Jolly Jumpers

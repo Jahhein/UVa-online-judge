@@ -16,6 +16,7 @@
 import java.util.Scanner;
 
 class Main {
+/*TODO 1585 - Score*/
 public static void main(String[] args) {
   Scanner input=new Scanner(System.in);
 

@@ -16,6 +16,7 @@
 import java.util.Scanner;
 
 class Main {
+/*TODO 10018 - Reverse and Add*/
 /*TODO Reverse and Add
 * Choose a number, reverse its digits and add it to the original. If the sum is NOT a
 * palindrome (which means, it is not the same number from left to right and right to
@@ -47,7 +48,8 @@ public static void main(String[] args) {
   }
 }
 
-/**+
+/**
+ * +
  * TODO Palindrome
  * Checks current number for palindrome possibility. Starting from the first character
  * of string xStr (long x), we compare it to the last. If we find a point where it is
@@ -71,13 +73,14 @@ public static boolean palindrome(long x) {
   return result;
 }
 
-/**+
+/**
+ * +
  * TODO Reverse
  * The reverse method obtains the reverse of the current number by setting result to be
- *  0, finding the remainder of x%10, and setting result=to result multiplied by 10
- *  (which later will not be 0), and adding the remainder to result. Divide x by 10 to
- *  give us a decimal point, (ex; 123/10=12.3), and the nature of an int will remove
- *  the decimal. Int x would then become 12. Repeat until x is 0.
+ * 0, finding the remainder of x%10, and setting result=to result multiplied by 10
+ * (which later will not be 0), and adding the remainder to result. Divide x by 10 to
+ * give us a decimal point, (ex; 123/10=12.3), and the nature of an int will remove
+ * the decimal. Int x would then become 12. Repeat until x is 0.
  * @param x
  * @return the reverse of x.
  */

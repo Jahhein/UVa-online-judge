@@ -16,6 +16,7 @@
 import java.util.Scanner;
 
 class Main {
+/*TODO 483 - Word Scramble*/
 public static void main(String[] args) {
   Scanner input=new Scanner(System.in);
 
@@ -25,15 +26,16 @@ public static void main(String[] args) {
     System.out.println(reverse(str));
   }/*end hasNext()*/
 }/*end main*/
+
 public static String reverse(String str) {
   String result="";
   String[] sRay=str.split(" ");
 
-  for(String u: sRay) {
+  for (String u : sRay) {
     u=" "+u;
     int l=u.length();
 
-    while(l>0) {
+    while (l>0) {
       result+=u.substring(l-1,l--);
     }
   }

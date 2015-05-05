@@ -13,9 +13,10 @@
  * Created by JacobHein on 4/5/15.
  */
 
-import java.util.*;
+import java.util.Scanner;
 
 class Main {
+/*TODO 494 - Kindergarten Counting Game*/
 public static void main(String[] args) {
   Scanner input=new Scanner(System.in);
 
@@ -24,11 +25,11 @@ public static void main(String[] args) {
     String temp=input.nextLine();
     temp=temp.toLowerCase();
     /*save time, change everything to lowercase for eval*/
-    temp = temp.replaceAll("[^a-z]"," ");
+    temp=temp.replaceAll("[^a-z]"," ");
     /* replace everything not an alphabetic character with a space*/
     temp=temp.trim();
     /*trim left and right white space*/
-    String[] sArray = temp.split(" ");
+    String[] sArray=temp.split(" ");
     /* split string into an array at each space*/
     for (String x : sArray) {
       if (x.matches(".*[a-z].*")) { // check if each array element contains a letter

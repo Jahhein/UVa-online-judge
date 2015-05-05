@@ -62,8 +62,8 @@ public static double cycle2(String str) {
   int l=str.length()-1, u=1, x=1;
   double result=0;
   while (u!=l) {
-    if(Character.isDigit(str.charAt(u+1))) {
-     x=Integer.parseInt(str.charAt(u++));
+    if (Character.isDigit(str.charAt(u+1))) {
+      x=Integer.parseInt(str.charAt(u++));
     }
     switch (str.charAt(u)) {
       case 'C':

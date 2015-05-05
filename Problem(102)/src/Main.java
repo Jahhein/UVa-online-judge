@@ -16,6 +16,7 @@
 import java.util.Scanner;
 
 class Main {
+/*TODO 102 - Ecological Bin Packing*/
 /*Three bottle color categories: Brown, green, clear.*/
 /* problem: Minimize the number of bottles that are moved. may assume that the only
 problem is to minimize the number of movements between boxes.*/

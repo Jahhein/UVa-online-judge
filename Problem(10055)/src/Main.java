@@ -12,18 +12,21 @@
 /**
  * Created by JacobHein on 3/9/15.
  */
+
 import java.util.Scanner;
 
 class Main {
+/*TODO 10055 - Hashmat the Brave Warrior*/
 public static void main(String[] args) {
   Scanner input=new Scanner(System.in);
   while (input.hasNext()) {
     long h=input.nextLong();
     long e=input.nextLong();
-    if (h>e)
+    if (h>e) {
       System.out.println(h-e);
-    else
+    } else {
       System.out.println(e-h);
+    }
   } /* end while */
 
 }

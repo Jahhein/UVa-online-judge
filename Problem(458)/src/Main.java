@@ -20,17 +20,19 @@ public static void main(String args[]) {
   Scanner input=new Scanner(System.in);
   while (input.hasNextLine()) {
     String str=input.nextLine();
-    str = str.trim();
-    String sArray[] = str.split();
+    str=str.trim();
+    String sArray[]=str.split();
 
-    if(!(str.isEmpty())) {
-      for(int i=0;i<str.length();i++) {
+    if (!(str.isEmpty())) {
+      for (int i=0;i<str.length();i++) {
         int x=0;
-        array[x] =(char) (str.charAt(i)-7);
+        array[x]=(char)(str.charAt(i)-7);
         x++;
       }
       System.out.println(array);
-    }else break;
+    } else {
+      break;
+    }
   }
 }
 }

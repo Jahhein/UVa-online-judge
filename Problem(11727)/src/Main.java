@@ -16,7 +16,7 @@
 import java.util.Scanner;
 
 class Main {
-/*TODO Cost Cutting
+/*TODO 11727 - Cost Cutting
 * Given 3 employee wages, find the 2 that will be laid off.
 * The highest and lowest wage are cut.*/
 public static void main(String[] args) {

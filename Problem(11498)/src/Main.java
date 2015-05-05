@@ -16,39 +16,39 @@
 import java.util.Scanner;
 
 class Main {
-/*TODO Division of Nlogonia
+/*TODO 11498 Division of Nlogonia
 * */
 
 public static void main(String[] args) {
   Scanner input=new Scanner(System.in);
   long u;
-  do{
+  do {
     u=input.nextLong();/*Test cases*/
-    if(u==0) {
+    if (u==0) {
       break;
     }
     long x=input.nextLong();/*x-coordinate (origin)*/
     long y=input.nextLong();/*y-coordinate (origin)*/
 
-    for(int c=0;c<u;c++) {
-    long xL=input.nextLong();/*x-location*/
-    long yL=input.nextLong();/*y-location*/
+    for (int c=0;c<u;c++) {
+      long xL=input.nextLong();/*x-location*/
+      long yL=input.nextLong();/*y-location*/
 
     /*yL>y means north, yL<y means south*/
     /*xL>x means east, xL<x means west*/
-    if(xL!=x&&yL!=y) {
-      if (xL>x&&yL>y) {
-        System.out.println("NE");
-      } else if (xL>x&&yL<y) {
-        System.out.println("SE");
-      } else if (xL<x&&yL>y) {
-        System.out.println("NO");
-      } else if (xL<x&&yL<y) {
-        System.out.println("SO");
+      if (xL!=x&&yL!=y) {
+        if (xL>x&&yL>y) {
+          System.out.println("NE");
+        } else if (xL>x&&yL<y) {
+          System.out.println("SE");
+        } else if (xL<x&&yL>y) {
+          System.out.println("NO");
+        } else if (xL<x&&yL<y) {
+          System.out.println("SO");
+        }
+      } else {
+        System.out.println("divisa");
       }
-    } else {
-      System.out.println("divisa");
-    }
 
     }
   } while (u!=0);

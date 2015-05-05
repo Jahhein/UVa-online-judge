@@ -22,18 +22,17 @@ public static void main(String[] args) {
   String str="";
 
   do {
-  str=input.nextLine();
-  str=str.trim();
-  if(str.equalsIgnoreCase("E N D")) {
-    break;
-  } else {
-    int l=str.length();
-    for(int u=0;u<l;u++) {
+    str=input.nextLine();
+    str=str.trim();
+    if (str.equalsIgnoreCase("E N D")) {
+      break;
+    } else {
+      int l=str.length();
+      for (int u=0;u<l;u++) {
 
+      }
     }
-  }
 
-
-  }while (run);
+  } while (run);
 }
 }

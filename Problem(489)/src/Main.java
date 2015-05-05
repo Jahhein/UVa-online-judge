@@ -19,7 +19,7 @@ class Main {
 public static void main(String args[]) {
   Scanner input=new Scanner(System.in);
   while (input.hasNextInt()) {
-    int round = input.nextInt();
+    int round=input.nextInt();
     System.out.println("Round "+round);
   }
   while (input.hasNext()) {

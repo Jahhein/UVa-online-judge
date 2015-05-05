@@ -12,9 +12,11 @@
  * Created by JacobHein on 3/9/15.
  */
 
-import java.util.*;
+import java.util.Scanner;
 
 class Main {
+/*TODO 100 0 The 3n+1 Problem
+* */
 public static void main(String args[]) {
   Scanner input=new Scanner(System.in);
   while (input.hasNextInt()) {

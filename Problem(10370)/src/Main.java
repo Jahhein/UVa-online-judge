@@ -14,7 +14,7 @@
  */
 
 import java.text.DecimalFormat;
-import java.util.*;
+import java.util.Scanner;
 
 class Main {
 public static void main(String[] args) {
@@ -25,9 +25,9 @@ public static void main(String[] args) {
     double c=input.nextInt();
     double cnt=0;
     forU:/*allocate xRay values*/
-    for(int u=0;u<c;u++) {
+    for (int u=0;u<c;u++) {
       int z=input.nextInt();
-      if(z>=80) {
+      if (z>=80) {
         cnt++;
       }
     }

@@ -27,16 +27,17 @@ import java.util.Scanner;
 /* for each line of input, print a single integer in one line denoting the
 * displacement in double of that time. */
 class Main {
+/*TODO 10071 - Back to High School Physics*/
 public static void main(String args[]) {
   Scanner input=new Scanner(System.in);
   while (input.hasNext()) {
     /* first int = v, second = t.*/
-    int v = input.nextInt();
-    int t = input.nextInt();
-    if ((v>=-100 && v<=100) && (t>=0 && t<=200)) {
+    int v=input.nextInt();
+    int t=input.nextInt();
+    if ((v>=-100&&v<=100)&&(t>=0&&t<=200)) {
       System.out.println(v*t*2);
     }
-
+    
   }
 
 }

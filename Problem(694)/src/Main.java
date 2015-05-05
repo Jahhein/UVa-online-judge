@@ -13,9 +13,10 @@
  * Created by JacobHein on 4/4/15.
  */
 
-import java.util.*;
+import java.util.Scanner;
 
 class Main {
+/*TODO 694 - The Collatz Sequence*/
 public static void main(String[] args) {
   Scanner input=new Scanner(System.in);
   int c=0;

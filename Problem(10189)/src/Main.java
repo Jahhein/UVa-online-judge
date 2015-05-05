@@ -37,7 +37,7 @@ public static void main(String[] args) {
       for (int u=0;u<x;u++) {
         str+=input.next()+" ";
       }
-     char[] field=str.toCharArray();
+      char[] field=str.toCharArray();
       System.out.println(field);
     }
   }
