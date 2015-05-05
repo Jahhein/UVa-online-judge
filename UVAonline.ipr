@@ -22,14 +22,14 @@
   </component>
   <component name="CopyrightManager" default="2015">
     <copyright>
-      <option name="notice" value="/*&#10; * Copyright (C) 2015-1016. Jacob Alan Hein. All Rights Reserved.&#10; *&#10; * Created by &amp;#36;{USER} on &amp;#36;{DATE}.&#10; * &#10; * This source code can not be copied and/or distributed without the express&#10; * permission of Jacob Alan Hein&#10;*/" />
+      <option name="notice" value="/*&#10; * Copyright (C) 2015-1016. Jacob Alan Hein. All Rights Reserved.&#10; *&#10; * Access to this file is strictly confidential.&#10; * &#10; * This source code can not be copied and/or distributed without the express&#10; * permission of Jacob Alan Hein&#10;*/" />
       <option name="keyword" value="Copyright" />
       <option name="allowReplaceKeyword" value="" />
       <option name="myName" value="2015" />
       <option name="myLocal" value="true" />
     </copyright>
     <LanguageOptions name="JAVA">
-      <option name="fileTypeOverride" value="3" />
+      <option name="fileTypeOverride" value="1" />
     </LanguageOptions>
   </component>
   <component name="DependencyValidationManager">
